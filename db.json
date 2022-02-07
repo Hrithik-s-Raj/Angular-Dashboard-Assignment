@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Hrithik",
+      "title": "Mr",
+      "email": "rhrithik1@gmail.com",
+      "role": "Intern"
+    },
+    {
+      "id": 2,
+      "name": "hello",
+      "title": "mr",
+      "email": "ee@gmail.com",
+      "role": "Hrithik"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Hrithik",
+      "email": "rhrithik1@gmail.com",
+      "mobile": "08943921454",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "hrithik",
+      "email": "test@gmail.com",
+      "mobile": "123456789",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
